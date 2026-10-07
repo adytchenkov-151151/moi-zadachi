@@ -1,0 +1,11 @@
+{
+  "name": "Мои задачи и время",
+  "short_name": "Задачи",
+  "description": "Управление задачами, учёт времени и дашборд продуктивности",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "lang": "ru",
+  "icons": []
+}
